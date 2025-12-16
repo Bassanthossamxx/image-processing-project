@@ -208,3 +208,6 @@ __marimo__/
 
 #output
 output/*
+image_processing_app/output/*
+image_processing_app/output/gaussian_noise/*
+image_processing_app/output/salt_and_pepper_noise/*
